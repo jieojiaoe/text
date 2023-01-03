@@ -1,7 +1,7 @@
 """
 演示for循环的基础语法
 """
-# for循环也被成为：遍历循环
+# for循环也被c称为：遍历循环
 number = 0
 name = "itheima is a brand of itcast"
 for x in name:
